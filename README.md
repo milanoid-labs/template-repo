@@ -1,2 +1,4 @@
 # template-repo
-Template used to scaffold new milanoid-labs repositories
+
+Template repository for new milanoid-labs projects. Generate a new repo
+from this template, then replace this README.
